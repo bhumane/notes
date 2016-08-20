@@ -6,7 +6,7 @@ TMUX COMMANDS
 - tmux kill-session -t myname
 
 # rename tab -
-- ctrl +b → : → rename-window python or ctrl +b , ? 
+- ctrl +b → , → rename-window python or ctrl +b , ? 
 
 # toggle 
 - ctrl +b,  0 or ctrl +b, 1 etc
