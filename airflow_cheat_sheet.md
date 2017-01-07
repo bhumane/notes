@@ -2,9 +2,13 @@
 #So i ran the following locate command and found the exact location where airflow was installed and then updated the path.
 
 locate airflow | grep airflow$
+
 airflow
+
 echo $PATH
+
 export PATH=$PATH:/home/bharati/.local/bin/
+
 airflow
 
 #Also i noticed that while installing some apps, they were unable to connect to some site.
